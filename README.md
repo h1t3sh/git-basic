@@ -13,6 +13,11 @@ Feature: Fast | Disconnected | Powerful yet easy | Branching | Pull Requests
     git config --global user.email "<email>"
     ```
 
-2. 
+2. Getting help in git
+
+    ```
+    $ git help <verb>
+    $ man git-<verb>
+    $ git add -h (or --help)
 
 
