@@ -12,6 +12,11 @@ Git: Widely adopted version control system
     git config --global user.email "<email>"
     ```
 
-2. 
+2. Getting help in git
+
+    ```
+    $ git help <verb>
+    $ man git-<verb>
+    $ git add -h (or --help)
 
 
