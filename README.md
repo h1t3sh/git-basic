@@ -1,4 +1,10 @@
-# Basic Git Commands
+# Introduction
+
+Git: Widely adopted version control system
+
+Feature: Fast | Disconnected | Powerful yet easy | Branching | Pull Requests
+
+## Basic Git Commands
 
 1. Configuring git
 
