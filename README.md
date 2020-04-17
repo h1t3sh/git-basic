@@ -18,5 +18,5 @@ Git: Widely adopted version control system
     $ git help <verb>
     $ man git-<verb>
     $ git add -h (or --help)
-
+    ```
 
